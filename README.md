@@ -4,13 +4,13 @@
 
   - [Building a SIEM System using Elastic Logstash & Kibana](https://github.com/Mahdi-Tohidi/SIEM-System)
   - [Creating a Vulnerability Scanner with Tenable Nessus Essentials](https://github.com/Mahdi-Tohidi/Vulnerability-Scanner)
-  - [Designing a self-hosted Password Manager](https://github.com/Mahdi-Tohidi/Password-Manager)
+  - [Designing a self-hosted Password Vault](https://github.com/Mahdi-Tohidi/Password-Manager)
 
 <h2>📺 Watch the tutorials!</h2>
 
 - [How to build a SIEM system using Elastic Logstash & Kibana](https://www.youtube.com/)
 - [How to create a Vulnerability Scanner with Tenable Nessus Essentials](https://www.youtube.com/)
-- [How to design a self-hosted Password Manager](https://www.youtube.com/)
+- [How to design a self-hosted Password Vault](https://www.youtube.com/)
 
 <h2> 🤳 Connect with me:</h2>
 
