@@ -10,7 +10,7 @@
 
 - [How to build a SIEM system using Elastic Logstash & Kibana](https://youtu.be/Dun6cbtvHQ4)
 - [How to create a Vulnerability Scanner with Tenable Nessus Essentials](https://www.youtube.com/)
-- [How to design a self-hosted Password Vault(IN PROGRESS)](https://www.youtube.com/)
+- [How to design a self-hosted Password Vault (IN PROGRESS)](https://www.youtube.com/)
 
 <h2> 🤳 Connect with me:</h2>
 
